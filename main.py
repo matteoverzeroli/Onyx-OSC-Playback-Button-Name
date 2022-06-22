@@ -1,3 +1,5 @@
+# Copyright (C) 2022 Matteo Verzeroli - All Rights Reserved
+
 import argparse
 from pythonosc import udp_client
 from bs4 import BeautifulSoup
