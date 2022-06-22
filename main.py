@@ -18,6 +18,9 @@ elif len(glob.glob("*.xml")) < 1:
     exit(1)
 
 if __name__ == "__main__":
+    IP = input("insert IP address of the OSC client:")
+    PORT = input("insert IP port of the OSC client:")
+
     playback = dict()
     playback_pg_number = "1"
 
@@ -35,9 +38,9 @@ if __name__ == "__main__":
                   playback[cl_playback_pos] = cl_name
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ip", default="192.168.178.102",
+    parser.add_argument("--ip", default= IP,
                         help="The ip of the OSC server")
-    parser.add_argument("--port", type=int, default=9000,
+    parser.add_argument("--port", type=int, default= int(PORT),
                         help="The port the OSC server is listening on")
     args = parser.parse_args()
 
