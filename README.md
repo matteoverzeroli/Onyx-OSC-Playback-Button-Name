@@ -1,1 +1,1 @@
-# Onyx-OSC-Playback-Button-Name
+# Onyx-OSC-Playback-Buttons-Name
