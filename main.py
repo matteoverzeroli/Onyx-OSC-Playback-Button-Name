@@ -1,6 +1,8 @@
 # Copyright (C) 2022 Matteo Verzeroli - All Rights Reserved
 
 import argparse
+from time import sleep
+
 from pythonosc import udp_client
 from bs4 import BeautifulSoup
 import glob, os
@@ -18,11 +20,12 @@ elif len(glob.glob("*.xml")) < 1:
     exit(1)
 
 if __name__ == "__main__":
-    IP = input("insert IP address of the OSC client:")
-    PORT = input("insert IP port of the OSC client:")
-
+    IP = input("insert IP address of the OSC client:") or "192.168.1.1"
+    PORT = input("insert IP port of the OSC client:") or "9000"
+    PLAYBACK_PG_NUMBER = int(input("insert playback page number:") or '1')
+    SLEEP_TIME = float(input("insert sleep time (s):") or '1')
+    print(PLAYBACK_PG_NUMBER)
     playback = dict()
-    playback_pg_number = "1"
 
     bs_data = BeautifulSoup(data, 'xml')
     cuelists_type = ('Cuelist', 'Chase', 'Override', 'Submaster', 'Timecode', 'Groupmaster')
@@ -34,7 +37,7 @@ if __name__ == "__main__":
                 cl_name = cuelist.get('cuelistName')
                 cl_playback_pg = cl_btn.get('playbackPage')
                 cl_playback_pos = cl_btn.get('buttonPosition')
-                if cl_playback_pg == playback_pg_number:
+                if int(cl_playback_pg) == PLAYBACK_PG_NUMBER:
                     playback[cl_playback_pos] = cl_name
 
     parser = argparse.ArgumentParser()
@@ -56,4 +59,5 @@ if __name__ == "__main__":
         else:
             client.send_message("/PB/" + btn + "/1", playback[btn])
             client.send_message("/PB/" + btn + "/2", "")
+        sleep(SLEEP_TIME)
     os.system("pause")

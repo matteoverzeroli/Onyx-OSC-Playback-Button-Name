@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='CuelistReport.Onyx.xslt'?>
+<CueLists showName="FERRAGOSTO 2022 New Scan" showBuild="67503311">
+  <Override internalId="2" visualId="1" cuelistName="FOG" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="10" playbackBankName="Bank 1"></PlayBackFader>
+  </Override>
+  <Groupmaster internalId="4" visualId="3" cuelistName="STAGE" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Groupmaster>
+  <Groupmaster internalId="5" visualId="4" cuelistName="HEAD" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Groupmaster>
+  <Groupmaster internalId="6" visualId="5" cuelistName="BACK" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Groupmaster>
+  <Override internalId="7" visualId="6" cuelistName="INTENSITY FX SPEED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="7" playbackBankName="Bank 1"></PlayBackFader>
+  </Override>
+  <Override internalId="8" visualId="7" cuelistName="PT FX SPEED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="8" playbackBankName="Bank 1"></PlayBackFader>
+  </Override>
+  <Override internalId="10" visualId="8" cuelistName="BLINDER" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="20" playbackBankName="Bank 1"></PlayBackFader>
+  </Override>
+  <Override internalId="12" visualId="9" cuelistName="STROBE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="6" playbackBankName="Bank 1"></PlayBackFader>
+      <PlayBackFader playbackPage="2" playbackNumber="1" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Cuelist internalId="13" visualId="10" cuelistName="RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="FadeAll" trigger="Go" delay="0s" fade="2.50s [0s]"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="11" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="14" visualId="11" cuelistName="GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s [0s]"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="13" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="15" visualId="12" cuelistName="UV ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Cuelist>
+  <Cuelist internalId="16" visualId="13" cuelistName="UV OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Cuelist>
+  <Cuelist internalId="17" visualId="14" cuelistName="BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="15" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="18" visualId="15" cuelistName="FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="17" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="19" visualId="16" cuelistName="STROBO" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="0" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Snap" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="19" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="20" visualId="17" cuelistName="PT STATIC" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Snap" trigger="Go" delay="0s" fade="1.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="12" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="21" visualId="18" cuelistName="PT CIRCLE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="FadeAll" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="14" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="22" visualId="19" cuelistName="PT VERTICAL" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="FadeAll" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="16" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="23" visualId="20" cuelistName="PT HORIZONTAL" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="FadeAll" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="18" playbackBankName="Bank 1"></PlayBackFader>
+  </Cuelist>
+  <Groupmaster internalId="30" visualId="21" cuelistName="MASTER" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+  </Groupmaster>
+  <Groupmaster internalId="31" visualId="22" cuelistName="MASTER" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="1" playbackBankName="Bank 1"></PlayBackFader>
+  </Groupmaster>
+  <Groupmaster internalId="32" visualId="23" cuelistName="SCENIC" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="2" playbackBankName="Bank 1"></PlayBackFader>
+  </Groupmaster>
+  <Groupmaster internalId="33" visualId="24" cuelistName="STAGE" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="4" playbackBankName="Bank 1"></PlayBackFader>
+  </Groupmaster>
+  <Groupmaster internalId="34" visualId="25" cuelistName="PAR" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="5" playbackBankName="Bank 1"></PlayBackFader>
+  </Groupmaster>
+  <Override internalId="39" visualId="26" cuelistName="SCENIC STROBE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="2" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Override internalId="40" visualId="27" cuelistName="WASH STROBE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="3" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Override internalId="44" visualId="31" cuelistName="PAR STROBE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="5" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Override internalId="45" visualId="32" cuelistName="WASH PULSE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="WASH PULSE" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="8" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Override internalId="47" visualId="33" cuelistName="CF7 IRIS" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="9" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Override internalId="48" visualId="34" cuelistName="130 PULSE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="10" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Chase internalId="49" visualId="35" cuelistName="ONE PER TIME" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="182.37 BPM 0.329s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="PT ONE PER TIME" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="3" cueId="3" cueName="Cue 3" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="4" cueId="4" cueName="Cue 4" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="12" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Chase internalId="51" visualId="36" cuelistName="ALL PER TIME" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="80.0 BPM 0.75s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="14" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Cuelist internalId="52" visualId="37" cuelistName="INT SIN FX" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="11" playbackBankName="Bank 2"></PlayBackFader>
+  </Cuelist>
+  <Override internalId="53" visualId="38" cuelistName="HEAD STROBE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="4" playbackBankName="Bank 2"></PlayBackFader>
+  </Override>
+  <Chase internalId="54" visualId="39" cuelistName="INT STEP UP STAGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="80.0 BPM 0.75s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="3" cueId="3" cueName="Cue 3" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="13" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Chase internalId="56" visualId="40" cuelistName="INT SX DX" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="80.0 BPM 0.75s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="15" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Chase internalId="57" visualId="41" cuelistName="WASH CENTRE/OUT" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="80.0 BPM 0.75s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="17" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Chase internalId="58" visualId="42" cuelistName="WASH OUT/OUT" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" useCueTiming="False" chaseRate="80.0 BPM 0.75s" chaseFade="100" chaseDirection="Forward" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+    <Cue internalRowId="3" cueId="3" cueName="Cue 3" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default"></Cue>
+      <PlayBackFader playbackPage="2" playbackNumber="19" playbackBankName="Bank 2"></PlayBackFader>
+  </Chase>
+  <Cuelist internalId="73" visualId="2" cuelistName="ALL ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Snap" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="1"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="74" visualId="43" cuelistName="SCENIC ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="2"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="75" visualId="44" cuelistName="WASH ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="3"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="76" visualId="45" cuelistName="CF7 ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="12"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="77" visualId="46" cuelistName="130 ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="13"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="78" visualId="47" cuelistName="SCAN ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="14"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="79" visualId="48" cuelistName="PAR ON" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="4"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="80" visualId="49" cuelistName="SCENIC OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="5"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="81" visualId="50" cuelistName="WASH OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="6"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="82" visualId="51" cuelistName="CF7 OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="15"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="83" visualId="52" cuelistName="13O OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="16"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="84" visualId="53" cuelistName="SCAN OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="17"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="85" visualId="54" cuelistName="PAR OFF" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="7"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="86" visualId="55" cuelistName="WASH SIGMA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="9"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="87" visualId="56" cuelistName="CF7 SIGMA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="10"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="88" visualId="57" cuelistName="130 SIGMA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="19"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="89" visualId="58" cuelistName="SCAN SIGMA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="20"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="90" visualId="59" cuelistName="CF7 GOBOS OPEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="71"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="91" visualId="60" cuelistName="CF7 GOBOS BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="72"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="92" visualId="61" cuelistName="CF7 GOBOS TRI" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="73"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="94" visualId="62" cuelistName="CF7 GOBOS " priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+  </Cuelist>
+  <Cuelist internalId="96" visualId="63" cuelistName="CF7 GOBOS #" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="74"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="97" visualId="64" cuelistName="CF7 GOBOS O" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="75"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="98" visualId="65" cuelistName="CF7 GOBOS STAR" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="76"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="99" visualId="66" cuelistName="CF7 ROT STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="77"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="100" visualId="67" cuelistName="CF7 ROT SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="78"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="101" visualId="68" cuelistName="CF7 ROT MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="79"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="102" visualId="69" cuelistName="CF7 ROT FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="80"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="103" visualId="70" cuelistName="130 OPEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="81"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="104" visualId="71" cuelistName="130 GOBOS FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="82"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="105" visualId="72" cuelistName="130 BARCODE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="83"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="106" visualId="73" cuelistName="130 FIORE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="84"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="107" visualId="74" cuelistName="130 AUDI" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="86"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="108" visualId="75" cuelistName="130 O" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="85"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="109" visualId="76" cuelistName="130 ROT STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="87"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="110" visualId="77" cuelistName="130 ROT SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="88"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="111" visualId="78" cuelistName="130 ROT MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="89"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="112" visualId="79" cuelistName="130 ROT FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="90"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="113" visualId="80" cuelistName="130 BAR SHAKE SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="11" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="114" visualId="81" cuelistName="130 BAR SHAKE MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="13" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="115" visualId="82" cuelistName="130 BAR SHAKE FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="15" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="116" visualId="83" cuelistName="130 O SHAKE SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="12" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="117" visualId="84" cuelistName="130 O SHAKE MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="14" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="118" visualId="85" cuelistName="130 O SHAKE FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="3" playbackNumber="16" playbackBankName="Bank 3"></PlayBackFader>
+  </Cuelist>
+  <Cuelist internalId="119" visualId="86" cuelistName="SCAN OPEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="91"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="120" visualId="87" cuelistName="SCAN GOBOS BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="92"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="121" visualId="88" cuelistName="SCAN GOBOS RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="93"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="122" visualId="89" cuelistName="SCAN GOBOS O" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="95"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="123" visualId="90" cuelistName="SCAN GIRANDOLA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="94"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="124" visualId="91" cuelistName="SCAN STAR" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="96"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="125" visualId="92" cuelistName="SCAN ROT STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="97"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="126" visualId="93" cuelistName="SCAN ROT SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="98"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="127" visualId="94" cuelistName="SCAN ROT MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="99"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="128" visualId="95" cuelistName="SCAN ROT FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="100"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="129" visualId="96" cuelistName="WASH NARROW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="39"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="130" visualId="97" cuelistName="WASH MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="49"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="131" visualId="98" cuelistName="WASH WIDE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="59"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="133" visualId="99" cuelistName="HEAD NARROW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="40"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="134" visualId="100" cuelistName="HEAD MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="50"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="135" visualId="101" cuelistName="HEAD WIDE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="60"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="136" visualId="102" cuelistName="CF7 PRISM STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="34"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="137" visualId="103" cuelistName="CF7 PRISM SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="35"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="138" visualId="104" cuelistName="CF7 PRISM MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="36"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="139" visualId="105" cuelistName="CF7 PRISM FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="37"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="140" visualId="106" cuelistName="CF7 NO PRISM" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="33"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="141" visualId="107" cuelistName="130 NO PRISM" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="43"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="144" visualId="108" cuelistName="130 CIRCULAR STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="44"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="145" visualId="109" cuelistName="130 CIRCULAR SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="45"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="146" visualId="110" cuelistName="130 CIRCULAR MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="46"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="147" visualId="111" cuelistName="130 CIRCULAR FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="47"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="148" visualId="112" cuelistName="130 LINEAR STOP" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="54"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="149" visualId="113" cuelistName="130 LINEAR SLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="55"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="150" visualId="114" cuelistName="130 LINEAR MED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="56"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="151" visualId="115" cuelistName="130 LINEAR FAST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="57"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="152" visualId="116" cuelistName="SCAN NO BEAM" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="64"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="153" visualId="117" cuelistName="SCAN FROST" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="65"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="154" visualId="118" cuelistName="SCAN PRISM" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="66"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="155" visualId="119" cuelistName="SCAN UV" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="67"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="156" visualId="120" cuelistName="SCENE RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="31"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="157" visualId="121" cuelistName="SCENE GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="41"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="158" visualId="122" cuelistName="SCENE BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="51"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="159" visualId="123" cuelistName="SCENE WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="32"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="160" visualId="124" cuelistName="SCENE YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="42"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="161" visualId="125" cuelistName="SCENE L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="52"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="162" visualId="126" cuelistName="SCENE FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="1" buttonPosition="62"></PlayBackButton>
+  </Cuelist>
+  <Groupmaster internalId="163" visualId="127" cuelistName="WASH" defaultFaderValue="False">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackFader playbackPage="1" playbackNumber="3" playbackBankName="Bank 1"></PlayBackFader>
+  </Groupmaster>
+  <Cuelist internalId="164" visualId="128" cuelistName="SCENIC RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="1"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="165" visualId="129" cuelistName="SCENIC GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="2"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="166" visualId="130" cuelistName="SCENIC BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="3"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="167" visualId="131" cuelistName="SCENIC WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="4"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="168" visualId="132" cuelistName="SCENIC YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="5"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="169" visualId="133" cuelistName="SCENIC L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="6"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="170" visualId="134" cuelistName="SCENIC FUCISA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="7"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="171" visualId="135" cuelistName="SCENIC ORANGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="8"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="172" visualId="136" cuelistName="WASH RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="11"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="173" visualId="137" cuelistName="WASH GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="12"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="174" visualId="138" cuelistName="WASH BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="13"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="175" visualId="139" cuelistName="WASH WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="14"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="176" visualId="140" cuelistName="WASH YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="15"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="177" visualId="141" cuelistName="WASH L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="16"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="178" visualId="142" cuelistName="WASH FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="17"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="179" visualId="143" cuelistName="CF7 RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="31"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="180" visualId="144" cuelistName="CF7 GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="32"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="181" visualId="145" cuelistName="CF7 BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="33"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="182" visualId="146" cuelistName="CF7 WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="34"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="183" visualId="147" cuelistName="CF7 YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="35"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="184" visualId="148" cuelistName="CF7 L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="36"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="185" visualId="149" cuelistName="CF7 FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="37"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="186" visualId="150" cuelistName="WASH ORANGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="18"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="187" visualId="151" cuelistName="CF7 ORANGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="38"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="188" visualId="152" cuelistName="130 RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="41"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="189" visualId="153" cuelistName="130 GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="42"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="190" visualId="154" cuelistName="130 WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="44"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="191" visualId="155" cuelistName="130 YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="45"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="192" visualId="156" cuelistName="130 L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="46"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="193" visualId="157" cuelistName="130 PINK" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="47"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="194" visualId="158" cuelistName="130 ORANGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="48"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="195" visualId="159" cuelistName="130 L GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="49"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="196" visualId="160" cuelistName="130 R/Y" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+    <Cue internalRowId="2" cueId="2" cueName="Cue 2" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="52"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="197" visualId="161" cuelistName="130 Y/G" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="53"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="198" visualId="162" cuelistName="130 O/P" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="54"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="199" visualId="163" cuelistName="130 L G/P" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="55"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="200" visualId="164" cuelistName="130 L G/L B" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="56"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="201" visualId="165" cuelistName="SCAN RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="61"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="202" visualId="166" cuelistName="SCAN GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="62"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="203" visualId="167" cuelistName="SCAN BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="63"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="204" visualId="168" cuelistName="SCAN WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="64"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="205" visualId="169" cuelistName="SCAN YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="65"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="206" visualId="170" cuelistName="SCAN PINK" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="67"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="207" visualId="171" cuelistName="SCAN ORANGE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="68"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="208" visualId="172" cuelistName="SCAN VIOLET" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="69"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="209" visualId="173" cuelistName="SCAN R/Y" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="72"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="210" visualId="174" cuelistName="SCAN Y/V" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="73"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="211" visualId="175" cuelistName="SCAN V/G" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="74"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="212" visualId="176" cuelistName="SCAN G/O" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="75"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="213" visualId="177" cuelistName="SCAN O/B" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="76"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="214" visualId="178" cuelistName="SCAN B/P" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="77"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="215" visualId="179" cuelistName="PAR RED" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="91"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="216" visualId="180" cuelistName="PAR GREEN" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="92"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="217" visualId="181" cuelistName="PAR BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="93"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="218" visualId="182" cuelistName="PAR WHITE" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="94"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="219" visualId="183" cuelistName="PAR YELLOW" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="95"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="220" visualId="184" cuelistName="PAR L BLU" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="96"></PlayBackButton>
+  </Cuelist>
+  <Cuelist internalId="221" visualId="185" cuelistName="PAR FUCSIA" priorityLevel="50" backTrack="True" autoRelease="True" releaseOnNextGo="False" releasewhenRestart="True" ResetWhenReleased="True" AllowMacrosInChases="False" defaultReleaseTime="3000" releaseDimmersFirst="False" ignoreGlobalRelease="False" defaultFaderValue="False" endOfCuelist="0" faderTriggerLevel="False" GoExitLink="False" tracking="True">
+    <Cue internalRowId="1" cueId="1" cueName="Cue 1" comment="" usesBase="False" usesFx="False" usesTiming="False" fadeMode="Default" trigger="Go" delay="0s" fade="2.50s"></Cue>
+      <PlayBackButton playbackPage="2" buttonPosition="97"></PlayBackButton>
+  </Cuelist>
+</CueLists>
